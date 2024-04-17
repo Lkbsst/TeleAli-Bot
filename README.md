@@ -21,4 +21,4 @@ Um Bot que pega os dados gerados no .XLS do Aliexpress afiliados e automatiza o 
 
 - Pegando ID do chat : https://www.youtube.com/watch?v=JBRxKAI-XpM
 
-- Grupo : https://t.me/TupiniQueves/1
+- Grupo : https://t.me/TupiniQueves
